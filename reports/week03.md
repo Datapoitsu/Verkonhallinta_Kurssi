@@ -53,7 +53,7 @@ Havoinnot: Aika paljon punaista virheilmoitusta samalla sivulla. Jos kyseiset ko
 
 Kuvakaappaus koko dashboardista.
 
-![image](load-test.png)
+![image](images/load-test.png)
 
 # 5. Kuormitustesti
 
